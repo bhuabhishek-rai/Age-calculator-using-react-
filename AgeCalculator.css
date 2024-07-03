@@ -1,0 +1,28 @@
+.Container_middle
+{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.left
+{
+    width: 500px;
+    background-color:darkgray; 
+     
+}
+.Container_middle_para
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+#A100{
+    margin-left: 20px;
+}
+#A101{
+    height:50px;
+    width:200px;
+    border-radius: 30px;
+    border:5px dotted black;
+}
